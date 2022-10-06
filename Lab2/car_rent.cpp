@@ -1,4 +1,4 @@
-// Car rent company simulation on cpp
+// Car rent company simulation
 
 #include "iostream"
 
